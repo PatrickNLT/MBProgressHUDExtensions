@@ -15,5 +15,5 @@ Pod::Spec.new do |s|
   s.source_files       = "*.{h,m}"
   s.framework          = "UIKit"
   s.requires_arc       = false
-  s.dependency "MBProgressHUD", "~> 0.4"
+  s.dependency "MBProgressHUD", "~> 1.0"
 end
